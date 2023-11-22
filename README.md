@@ -1,4 +1,3 @@
-# 💤 LazyVim
+# DxRed's Neovim Config
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+There is absolutely nothing of value to be gained from copying someone else's configs. Just get LazyVim and make your own.
